@@ -1,6 +1,13 @@
 # password_generator
 
-A new Flutter project.
+WARNING!
+Inside the source code it is very messy
+It's Work In Progress
+
+![Password generator](lib/assets/img/image.png)
+
+
+I get inpiration from https://github.com/Bakterio/PasswordGenerator
 
 ## Getting Started
 
